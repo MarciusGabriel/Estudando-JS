@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    margin: 20vw;
+    justify-content: flex-end;
+}
+tr{
+    margin: 0;
+    display: flex;
+}
+table{
+    padding: 10px;
+}
+td{
+   
+   width: 15vw;
+    height: 3vw;
+border: solid 2px;
+
+}
+*{
+    margin: 0;
+}
+.verm{
+    background-color: red;
+}
+.verd{
+    background-color: green;
+}
+.azu{
+    background-color: blue;
+}
+.ama{
+    background-color: yellow;
+}
+.ros{
+    background-color: rgb(223, 18, 206);
+}
+input {
+    width: 15vw;
+    height: 3vw;
+border: solid 2px;
+}
